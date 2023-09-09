@@ -1,0 +1,27 @@
+Command Line
+
+Commands
+ cd ~/
+ cd ..
+ touch
+ mkdir
+ code
+
+Unix Commands
+man(manual) i.e, man ls :-> show details for ls command
+
+ls
+ls -l
+ls -al
+ls -a (hidden files)
+pwd
+cp
+mv
+
+
+PIPES:
+    ls file1.txt |wc-w
+
+grep
+
+    grep text filename.txt

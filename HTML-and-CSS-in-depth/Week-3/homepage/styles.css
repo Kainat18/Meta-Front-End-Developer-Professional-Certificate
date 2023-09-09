@@ -1,0 +1,134 @@
+
+body{
+    background-color: #edefee;
+    margin: 2rem;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    
+}
+
+h1{
+    font-size: 3rem;
+}
+
+h2{
+    font-size:1.5rem;
+}
+
+header > img{
+    display:block;
+    margin-left:auto;
+    margin-right:auto;
+}
+
+nav{
+    background-color:#302f2f;
+    border-radius:1rem;
+    margin-top:3rem;
+    margin-bottom:3rem;
+}
+nav ul{
+    
+    list-style: none;
+    text-align:center;
+    padding:0.65rem;
+   
+}
+
+nav li{
+    display:inline-block;
+    
+}
+nav li > a{
+    text-decoration: none;
+    color:white;
+    font-size:1.5rem;
+    margin: 0.8rem;
+}
+li >a:hover{
+  color:rgb(228, 217, 72);
+  font-size:2rem;
+  text-decoration: underline;
+
+}
+
+section{
+    display:flex;
+}
+article{
+    flex:1;   
+}
+
+footer{
+    display:flex;
+    border: 4px solid rgb(50, 63, 56);
+    margin-top:2rem;
+    
+}
+footer div{
+    flex:1;
+    
+    
+}
+footer img{
+    padding:2rem;
+}
+.copyright{
+text-align:right;
+padding:2rem;
+color:#302f2f;
+font-size:1rem;
+margin-top:5rem;
+
+  
+}
+
+.promo{
+    
+    border-radius: 1rem;
+    background-image: url(download.jpg);
+     box-shadow: 5px 10px 20px #ccc;
+     background-repeat: no-repeat;
+     background-size: cover;
+     background-attachment: fixed;
+    
+
+     
+     
+}
+
+.promo h1{
+    color: white;
+    text-align: center;
+    font-style:italic;
+}
+.promo p{
+    color:white;
+    text-align:center;
+}
+
+article img{
+    width:60%;
+    text-align: center;
+}
+
+.section-2{
+    margin-top:4rem;
+    display:flex;
+    gap:20px;
+    
+}
+
+.section-2 > article{
+    background-color: hsl(0, 7%, 92%);
+    font-size: 1rem;
+    border-radius:1rem;
+    line-height: 1.5rem;
+    text-align:center;
+    box-shadow: 5px 10px 20px #ccc;
+
+}
+
+
+
+
+

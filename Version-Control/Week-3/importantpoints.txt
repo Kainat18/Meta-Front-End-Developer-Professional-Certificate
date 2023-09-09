@@ -1,0 +1,76 @@
+Git and GitHub are two versions of control technologies
+Git is a version control system designed to help users keep track of changes to files within their projects.
+GitHub is a Cloud-based hosting service that lets you manage Git repositories from a user interface. A Git repository is used to track all changes to files in a specific folder and keep a history of all those changes.
+..git workflow
+working directory, staging area, committed files, remote repo
+-git commands
+add a file, commit, and push 
+git add. // add all files
+git status // to check status
+Getting restore --stage (revert changes means getting the file) back or unadding it
+git  commit -m "message or title " // commit file changes
+git push -u origin (name of branch)
+This will add changes to Git Hub.
+local means the repo is on your local machine and has no connection with the GitHub server,while remote means it's on the GitHub server
+
+git diff command (tell about all changes made)
+git blame (tell about who made changes and what changes are made)
+
+Git branches
+
+// Create branch and move to it
+git checkout -B feature/feature-name
+git add .
+git commit -m "message"
+
+git push -u origin feature/feature-name
+
+-u(going to get updates form the upstream -> 'means main branch')
+
+git checkout main
+git pull
+
+
+
+PULL REQUEST:
+    The purpose of a pull request is to obtain a peer review of changes made to the branch. In other words, to validate that the changes are correct.    
+
+    When you create a pull request you are asking the other developers to review your work and approve it to be merged with the repository.
+
+    
+You would use the Git remote command to set the remote repository.   
+
+Remote VS local
+    Set Local Repo and add to remote:
+        git init
+        git remote add origin put-repository-link
+        git pull # bring all the changes from remote
+        git checkout main # set the main branch to see changes
+
+        git remote -v
+
+
+--------------
+
+git push
+    When you use Git Push, Git compares a snapshot of your local repository with the remote one and only replaces the files that have been changed. 
+
+git pull
+
+
+Git Merge Conflict
+
+Work Flows
+HEAD
+Whenever a change occurs for a commit, the single hashed ID will update to be the latest commit for that working directory. 
+
+Diff Commands
+
+    
+git blame filename.txt
+git blame -L 1,10 filename.txt # return 10 lines
+git blame -l filename.txt
+git log -p commit-id
+
+#
+The order in which the change information will display in each line as follows: < ID><Author><Date><Time><Line number><Content>     

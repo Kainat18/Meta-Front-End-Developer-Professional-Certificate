@@ -1,0 +1,6 @@
+The first week was all about the introduction to Version Control and its terminology
+
+VERSION CONTROL IS A CONTROL SYSTEM THAT KEEP TRACKS OFALL CHANGES THAT ARE BEING MADE IN A FILE .
+ITS BASICALLY RELATED TO COMMAND LINE , GIT AND GITHUB
+
+
