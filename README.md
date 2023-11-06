@@ -35,9 +35,13 @@ By the end, you’ll put your new skills to work by completing a real-world proj
 
 [ 8: Front-End Developer Capstone](https://coursera.org/share/a7860818d487595aa892241102f7c23e)
 
-[ 9: Coding Interview Preparation] (coming soon)
+[ 9: Coding Interview Preparation] (https://coursera.org/share/7e796b285e673c340b020ce18c88f718)
+
+## Meta Front End Developer Professional Certificate
+(https://coursera.org/share/08081f40c075f5eadbf9782646f650e2)
 
 ## Meta Front End Developer Capstone: 
-[LittleLemon Using React](https://github.com/Kainat18/little-lemon-website)
+[Little Lemon Using React](https://github.com/Kainat18/little-lemon-website)
+
 
 
