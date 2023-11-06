@@ -17,7 +17,7 @@ In this program, you’ll learn:
 
 By the end, you’ll put your new skills to work by completing a real-world project where you’ll create your own front-end web application. Any third-party trademarks and other intellectual property (including logos and icons) referenced in the learning experience remain the property of their respective owners. Unless specifically identified as such, Coursera’s use of third-party intellectual property does not indicate any relationship, sponsorship, or endorsement between Coursera and the owners of these trademarks or other intellectual property.
 
-## Certificates
+## My Certificates of all courses
 
 [ 1: Introduction to Front-End Development](https://coursera.org/share/b79ba831134bbef23c36768ca071b9d4)
 
